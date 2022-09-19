@@ -1,3 +1,5 @@
 # examen_integrador
-Cristian Arbelaez, Ximena Marrero
-TOKEN CRISTIAN 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
+Cristian Arbelaez
+ Ximena Marrero
+
+Cristian Arbelaez 2.0
